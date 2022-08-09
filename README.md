@@ -5,7 +5,7 @@
 - 📫 How to reach me; hi@ahmetaltun.dev
 
 ![ahmetaltun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetaltun&count_private=true&show_icons=true&hide=contribs&line_height=24&theme=codeSTACKr)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetaltun&langs_count=6&theme=codeSTACKr&layout=compact&card_width=250)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetaltun&langs_count=6&theme=codeSTACKr&layout=compact&card_width=255)
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
