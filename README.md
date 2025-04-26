@@ -1,6 +1,6 @@
 ```yaml
 name: Ahmet ALTUN
-from: Istanbul, Türkiye
+from: Istanbul, TR
 job: Software Developer
 company: Cloudivant, LLC.
 education: 
